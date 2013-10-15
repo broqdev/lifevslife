@@ -1,0 +1,12 @@
+.grid {
+	margin: 0px auto auto;
+	border: 1px solid #000000;
+	border-width: 0 1px 1px 0;
+	/*background-color: #28ACF9;*/
+}
+
+.grid div {
+	border: 1px solid #000000;
+	border-width: 1px 0 0 1px;
+	float: left;
+}
